@@ -6,11 +6,11 @@ Trabalhando há mais de 20 anos como analista e desenvolvedor, formado em Gestã
 
 <details>
 <p>
-Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e de automação.
+Possuo experiência no ramo bancário como analista de sistemas sendo responsável pela programação de módulos bancários e de automação, desenvolvimento de sistemas utilizando Java, Spring-Boot, JPA, Apache Maven, Metodologia Scrum, Spring Data, Spring Security, Docker, Microsserviços, Kafka, Git, OAuth, Flyway, Actuator, MongoDB, Lombok, Hateoas, Java EE, EJB, JBoss, JavaScript, TypeScript, ReactJS, IDE's Eclipse, IntelliJ e Android Studio.
 </p>
 
 <p>
-Também atuei com gestor de demandas na Capgemini Brasil, Indra com desenvolvimento e análise de sistemas, Ibama e Presidência da República como desenvolvedor sênior Delphi, entre outros.
+Também atuei com gestor de demandas na Capgemini Brasil, Indra com desenvolvimento e análise de sistemas, Ibama e Presidência da República como desenvolvedor sênior Delphi, Cooperforte como Analista de TI Pleno com Java e Delphi entre outros.
 </p>
 
 </details>
